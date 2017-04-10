@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\test\bin\Debug\test.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\test\bin\Debug\test.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\test\bin\Debug\test.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\test\obj\Debug\test.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\test\obj\Debug\test.pdb

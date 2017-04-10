@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\1. Sum, Min, Max, Average\bin\Debug\_1.Sum__Min__Max__Average.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\1. Sum, Min, Max, Average\bin\Debug\_1.Sum__Min__Max__Average.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\1. Sum, Min, Max, Average\bin\Debug\_1.Sum__Min__Max__Average.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\1. Sum, Min, Max, Average\obj\Debug\_1.Sum__Min__Max__Average.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\1. Sum, Min, Max, Average\obj\Debug\_1.Sum__Min__Max__Average.pdb

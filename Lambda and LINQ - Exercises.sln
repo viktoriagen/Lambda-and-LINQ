@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Register Users", "1. Register Users\1. Register Users.csproj", "{1166FBC7-7E32-4865-ACAA-F7C296847F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Default Values", "2. Default Values\2. Default Values.csproj", "{A9AE4CE8-C678-4C06-9C5F-50EF30C69D25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Flatten Dictionary", "3. Flatten Dictionary\3. Flatten Dictionary.csproj", "{C1486159-8E14-4A2F-A054-B4A2FA5B07F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Lambada Expressions", "1. Lambada Expressions\1. Lambada Expressions.csproj", "{2AE339A8-B162-477D-8268-E4D2E71EA977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Ordered Banking System", "2. Ordered Banking System\2. Ordered Banking System.csproj", "{78C07249-2411-4F12-A978-884D9AC73646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. LINQuistics", "3. LINQuistics\3. LINQuistics.csproj", "{EB8F18DB-ADB0-40C7-8999-A86F93C7E1E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1166FBC7-7E32-4865-ACAA-F7C296847F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1166FBC7-7E32-4865-ACAA-F7C296847F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1166FBC7-7E32-4865-ACAA-F7C296847F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1166FBC7-7E32-4865-ACAA-F7C296847F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AE4CE8-C678-4C06-9C5F-50EF30C69D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AE4CE8-C678-4C06-9C5F-50EF30C69D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AE4CE8-C678-4C06-9C5F-50EF30C69D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AE4CE8-C678-4C06-9C5F-50EF30C69D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1486159-8E14-4A2F-A054-B4A2FA5B07F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1486159-8E14-4A2F-A054-B4A2FA5B07F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1486159-8E14-4A2F-A054-B4A2FA5B07F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1486159-8E14-4A2F-A054-B4A2FA5B07F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AE339A8-B162-477D-8268-E4D2E71EA977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE339A8-B162-477D-8268-E4D2E71EA977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE339A8-B162-477D-8268-E4D2E71EA977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE339A8-B162-477D-8268-E4D2E71EA977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C07249-2411-4F12-A978-884D9AC73646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C07249-2411-4F12-A978-884D9AC73646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C07249-2411-4F12-A978-884D9AC73646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C07249-2411-4F12-A978-884D9AC73646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB8F18DB-ADB0-40C7-8999-A86F93C7E1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8F18DB-ADB0-40C7-8999-A86F93C7E1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8F18DB-ADB0-40C7-8999-A86F93C7E1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8F18DB-ADB0-40C7-8999-A86F93C7E1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ - Exercises\3. LINQuistics\bin\Debug\_3.LINQuistics.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ - Exercises\3. LINQuistics\bin\Debug\_3.LINQuistics.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ - Exercises\3. LINQuistics\bin\Debug\_3.LINQuistics.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ - Exercises\3. LINQuistics\obj\Debug\3. LINQuistics.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ - Exercises\3. LINQuistics\obj\Debug\_3.LINQuistics.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ - Exercises\3. LINQuistics\obj\Debug\_3.LINQuistics.pdb

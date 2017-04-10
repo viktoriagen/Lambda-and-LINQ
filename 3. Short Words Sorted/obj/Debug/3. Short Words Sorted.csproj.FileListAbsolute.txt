@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\3. Short Words Sorted\bin\Debug\_3.Short_Words_Sorted.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\3. Short Words Sorted\bin\Debug\_3.Short_Words_Sorted.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\3. Short Words Sorted\bin\Debug\_3.Short_Words_Sorted.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\3. Short Words Sorted\obj\Debug\3. Short Words Sorted.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\3. Short Words Sorted\obj\Debug\_3.Short_Words_Sorted.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ\3. Short Words Sorted\obj\Debug\_3.Short_Words_Sorted.pdb

@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ - Exercises\1. Lambada Expressions\bin\Debug\_1.Lambada_Expressions.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ - Exercises\1. Lambada Expressions\bin\Debug\_1.Lambada_Expressions.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ - Exercises\1. Lambada Expressions\bin\Debug\_1.Lambada_Expressions.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ - Exercises\1. Lambada Expressions\obj\Debug\1. Lambada Expressions.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ - Exercises\1. Lambada Expressions\obj\Debug\_1.Lambada_Expressions.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Lambda and LINQ - Exercises\1. Lambada Expressions\obj\Debug\_1.Lambada_Expressions.pdb
